@@ -76,6 +76,7 @@ function setNameText(target, node){
 
 <br>
 <br>
+
 ```javascript
 const nav = getNode('.nav');
 const visualImage = getNode('.visual img');
