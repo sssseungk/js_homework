@@ -104,7 +104,7 @@ function handleSlider(e){
 }
 
 nav.addEventListener('click', handleSlider);
-``````
+```
 
 작은 이미지를 클릭했을 때 이미지 겉에 흰색 테두리가 생성되도록 하였고,
 이미지 중복 선택은 되지 않도록 removeClass를 사용하였습니다.
